@@ -12,3 +12,7 @@ type CreateUserRequest struct {
 	Name string
 	Email string
 }
+
+type CreateUserResponse struct {
+	NewUserId uuid.UUID `json:"newUserId"`
+}
