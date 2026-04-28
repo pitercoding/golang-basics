@@ -12,7 +12,7 @@ type Handlers struct {
 }
 
 func New(useCases *usecases.UseCases) *Handlers {
-	return &Handlers{}
+	return &Handlers{useCases: useCases}
 }
 
 func (h Handlers) Listen(port int) error {
@@ -21,7 +21,7 @@ func (h Handlers) Listen(port int) error {
 	slog.Info("listening on", "port", port)
 
 	return http.ListenAndServe(
-		fmt.Sprint(":%v", port),
+		fmt.Sprintf(":%v", port),
 		nil,
 	)
 }

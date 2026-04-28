@@ -24,7 +24,7 @@ func (u UseCases) GetAll() []models.User {
 	return users
 }
 
-func (u UseCases) Add(newUser models.User) (uuid.UUID, error) {
+func (u UseCases) Add(newUser models.CreateUserRequest) (uuid.UUID, error) {
 	exists := u.repos.User.EmailExists(newUser.Email)
 
 	if exists {
@@ -36,6 +36,7 @@ func (u UseCases) Add(newUser models.User) (uuid.UUID, error) {
 	repoReq := models.User{
 		ID: uuid.New(),
 		Name: newUser.Name,
+		Email: newUser.Email,
 	}
 
 	u.repos.User.Add(repoReq)
