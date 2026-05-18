@@ -4,7 +4,7 @@
 
 ### 🧪 Setup & Language Basics
 
-- ⬜ **EX-1.1.01** | Hello World in Go — Create a `main.go` and print "Hello World" using `fmt.Println`.
+- ✅ **EX-1.1.01** | Hello World in Go — Create a `main.go` and print "Hello World" using `fmt.Println`.
 - ⬜ **EX-1.1.02** | Print your name and age using variables and formatted output.
 - ⬜ **EX-1.1.03** | Declare variables using both `var` and `:=`, then print them.
 - ⬜ **EX-1.1.04** | Read user input using `fmt.Scanln` and display it back.
