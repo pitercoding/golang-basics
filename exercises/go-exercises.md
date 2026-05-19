@@ -12,7 +12,7 @@
 - ✅ **EX-1.1.06** | Perform subtraction, multiplication, and division with user input.
 - ✅ **EX-1.1.07** | Create constants and print them using `fmt.Println`.
 - ✅ **EX-1.1.08** | Convert string to int using `strconv.Atoi`.
-- ⬜ **EX-1.1.09** | Convert int to string using `strconv.Itoa`.
+- ✅ **EX-1.1.09** | Convert int to string using `strconv.Itoa`.
 - ⬜ **EX-1.1.10** | Use `fmt.Printf` to format strings and numbers.
 - ⬜ **EX-1.1.11** | Observe and explain zero values in Go variables.
 - ⬜ **EX-1.1.12** | Use a basic switch statement with numbers.
