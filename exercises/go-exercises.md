@@ -9,7 +9,7 @@
 - ✅ **EX-1.1.03** | Declare variables using both `var` and `:=`, then print them.
 - ✅ **EX-1.1.04** | Read user input using `fmt.Scanln` and display it back.
 - ✅ **EX-1.1.05** | Ask for two numbers and print their sum.
-- ⬜ **EX-1.1.06** | Perform subtraction, multiplication, and division with user input.
+- ✅ **EX-1.1.06** | Perform subtraction, multiplication, and division with user input.
 - ⬜ **EX-1.1.07** | Create constants and print them using `fmt.Println`.
 - ⬜ **EX-1.1.08** | Convert string to int using `strconv.Atoi`.
 - ⬜ **EX-1.1.09** | Convert int to string using `strconv.Itoa`.
