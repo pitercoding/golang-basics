@@ -15,7 +15,7 @@
 - ✅ **EX-1.1.09** | Convert int to string using `strconv.Itoa`.
 - ✅ **EX-1.1.10** | Use `fmt.Printf` to format strings and numbers.
 - ✅ **EX-1.1.11** | Observe and explain zero values in Go variables.
-- ⬜ **EX-1.1.12** | Use a basic switch statement with numbers.
+- ✅ **EX-1.1.12** | Use a basic switch statement with numbers.
 - ⬜ **EX-1.1.13** | Generate random numbers using `math/rand`.
 - ⬜ **EX-1.1.14** | Handle errors using `if err != nil`.
 - ⬜ **EX-1.1.15** | Read multiple values in a single input line.
