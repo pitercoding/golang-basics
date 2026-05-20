@@ -17,7 +17,7 @@
 - ✅ **EX-1.1.11** | Observe and explain zero values in Go variables.
 - ✅ **EX-1.1.12** | Use a basic switch statement with numbers.
 - ✅ **EX-1.1.13** | Generate random numbers using `math/rand`.
-- ⬜ **EX-1.1.14** | Handle errors using `if err != nil`.
+- ✅ **EX-1.1.14** | Handle errors using `if err != nil`.
 - ⬜ **EX-1.1.15** | Read multiple values in a single input line.
 - ⬜ **EX-1.1.16** | Iterate over a string using `for range`.
 
