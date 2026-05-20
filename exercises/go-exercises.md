@@ -25,7 +25,7 @@
 
 - ✅ **EX-1.2.01** | Concatenate two strings and print the result.
 - ✅ **EX-1.2.02** | Reverse a string manually using a loop.
-- ⬜ **EX-1.2.03** | Count vowels in a given string.
+- ✅ **EX-1.2.03** | Count vowels in a given string.
 - ⬜ **EX-1.2.04** | Check if a string is a palindrome.
 - ⬜ **EX-1.2.05** | Convert string to uppercase and lowercase.
 - ⬜ **EX-1.2.06** | Count total characters in a string.
