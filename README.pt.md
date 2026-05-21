@@ -2,246 +2,177 @@
 
 <p align="center">
   <strong>Idiomas:</strong><br>
-  <a href="README.pt.md">Português</a> |
+  <a href="README.pt.md">Portugues</a> |
   <a href="README.md">English</a>
 </p>
 
-Golang Basics é um **repositório de aprendizado em Go** que reúne exercícios práticos pequenos e mini-projetos incrementais para estudar os conceitos centrais da linguagem passo a passo.
+**Golang Basics** é um repositório de estudo para aprender Go de forma prática e progressiva.
 
-Atualmente, o repositório inclui:
+O projeto está organizado em três grandes áreas:
 
-- programas introdutórios de Go cobrindo sintaxe, loops, funções, ponteiros, arrays, slices, maps, structs, interfaces, composição e tratamento de erros
-- exercícios de modularização com pacotes locais e múltiplos `go.mod`
-- um exemplo de calculadora separada em pacotes para praticar organização de projeto
-- um exemplo simples de API REST com handlers HTTP, use cases, repositories, modelos de request/response e fluxo em memória
+- `lessons`: exemplos curtos para aprender os conceitos centrais da linguagem
+- `exercises`: prática guiada organizada por nível e tema
+- `projects`: aplicações maiores para consolidar o que foi estudado
 
-## 🎯 Motivação do Projeto
+O objetivo é manter um único lugar para experimentação, repetição e evolução gradual durante os estudos de Golang.
 
-Este repositório foi criado para estudar Go de forma progressiva e prática.
+## Sobre o Repositório
 
-O objetivo principal é manter um único lugar para experimentos que vão da sintaxe básica até um design de aplicação mais estruturado, facilitando revisitar conceitos e comparar exercícios simples com exemplos mais completos.
+Este repositório foi pensado para apoiar o estudo de Go desde os fundamentos até uma organização de código mais estruturada.
 
-Ele é especialmente útil para praticar:
+Em vez de apresentar apenas exemplos isolados ou apenas aplicações completas, o repositório combina:
 
-- sintaxe de Go e fundamentos da biblioteca padrão
-- comportamento de valores vs ponteiros
-- slices, maps, structs e interfaces
-- organização de pacotes e uso de módulos
-- separação de responsabilidades em uma pequena API REST
+- lições focadas em conceitos
+- exercícios práticos
+- projetos para consolidação
 
-## ✅ Conteúdo Atual
+Isso facilita estudar, revisitar assuntos anteriores e evoluir da sintaxe básica para pequenas estruturas mais próximas do mundo real.
 
-### 📘 Exercícios de Aprendizado
+## Organização do Repositório
 
-- exemplos básicos de "hello world" e build
-- exercícios de aritmética e cálculo de idade
-- loops e `for range`
-- funções com parâmetros por cópia e por referência
-- prática com ponteiros
-- arrays, slices, capacidade, subslices e `make`
-- maps e iteração sobre maps
+### `lessons`
+
+A pasta `lessons` contém exemplos pequenos e diretos, cada um focado em um conceito por vez.
+
+Os temas atuais incluem:
+
+- sintaxe básica e execução
+- loops e funções
+- ponteiros e tratamento de erros
+- arrays, slices e maps
 - structs, interfaces e composição
-- exercícios de tratamento de erros
 
-### 📦 Prática com Módulos e Pacotes
+### `exercises`
 
-- `24_mod` para um módulo simples com pacotes internos
-- `25_calculadora_modular` para uma calculadora dividida em pacotes
-- `go.work` na raiz configurado para trabalhar com exemplos multi-módulo
+A pasta `exercises` é a área de prática do repositório.
 
-### 🌐 Exemplo de API REST
+Ela está organizada por nível de aprendizado e por tema, com cada exercício vivendo em sua própria pasta e arquivo `main.go`.
 
-A pasta `26_rest_api` contém o exemplo mais completo do repositório até o momento.
+O roadmap atual de exercícios está documentado em `exercises/go-exercises.md`.
 
-Implementação atual:
+### `projects`
 
-- bootstrap da API por meio de `cmd/api`
-- exemplo simples de client por meio de `cmd/client`
-- endpoint `GET /users` para listar usuários
-- endpoint `POST /users` para criar usuários
-- modelos de request e response para criação de usuário
-- repositório de usuários em memória
-- camada de use case com validação de e-mail duplicado
-- geração de UUID para usuários criados
-- respostas JSON para cenários de sucesso e erro
+A pasta `projects` reúne exemplos mais amplos, que conectam vários conceitos de Go dentro do mesmo código.
 
-## 🔄 Progressão do Aprendizado
+Essa área é útil para praticar:
 
-O repositório está organizado como uma progressão, e não como uma aplicação única.
+- separação de pacotes
+- organização por módulos
+- reutilização de código
+- estrutura de aplicação
 
-Caminho típico:
+## Fluxo de Estudo Sugerido
 
-1. Começar pelos exercícios isolados nas pastas numeradas
-2. Avançar para os exemplos de organização com pacotes e módulos
-3. Finalizar com o exemplo de API REST, que aplica esses conceitos em uma estrutura mais próxima de um projeto real
+Se você estiver usando este repositório como trilha de aprendizado, uma ordem simples é:
 
-## 🧰 Tecnologias
+1. Começar por `lessons`
+2. Reforçar o tema em `exercises`
+3. Aplicar os conceitos em `projects`
 
-- Go 1.26.2
-- biblioteca padrão do Go
-- `github.com/google/uuid`
-- Go modules e `go.work`
+Essa estrutura ajuda a transformar teoria em repetição e repetição em implementação.
 
-## ▶️ Como Rodar Localmente
+## Como Rodar
 
-### 1. 📥 Clonar o repositório
+### 1. Clonar o repositório
 
 ```bash
 git clone https://github.com/pitercoding/golang-basics.git
 cd golang-basics
 ```
 
-### 2. ▶️ Rodar um exemplo básico
-
-Na raiz do repositório, execute qualquer exemplo numerado:
+### 2. Rodar uma lição
 
 ```bash
-go run ./00_hello
+go run ./lessons/00_hello
 ```
 
-Você pode substituir `00_hello` por qualquer outra pasta de aprendizado, como `10_for_range` ou `20_map`.
-
-### 3. 🧮 Rodar o exemplo da calculadora modular
+### 3. Rodar um exercício
 
 ```bash
-go run ./25_calculadora_modular
+go run ./exercises/level1/01_setup_and_language_basics/001_hello_world
 ```
 
-### 4. 🌐 Rodar o exemplo da API REST
-
-Inicie a API:
+### 4. Rodar um projeto
 
 ```bash
-go run ./26_rest_api/cmd/api
+go run ./projects/01_calculadora
 ```
 
-A API roda em:
+Algumas pastas em `projects` usam o próprio `go.mod`, então também é possível executá-las de dentro do diretório específico quando necessário.
 
-- `http://localhost:8080`
-
-### 5. 🧪 Rodar o exemplo do client REST
-
-Com a API rodando em outro terminal:
-
-```bash
-go run ./26_rest_api/cmd/client
-```
-
-### 6. 🗂️ Observação sobre workspace
-
-Este repositório usa um arquivo `go.work` para os exemplos com múltiplos módulos. Se você adicionar novas pastas com módulo próprio no futuro, inclua-as no `go.work` quando necessário.
-
-## 🔌 Observações da REST API
-
-Endpoints atuais em `26_rest_api`:
-
-- `GET /users`
-- `POST /users`
-
-Exemplo de body da requisição:
-
-```json
-{
-  "name": "Racha Cuca",
-  "email": "rc@test.com"
-}
-```
-
-Comportamento atual:
-
-- os usuários são armazenados em memória
-- cada novo usuário recebe um UUID gerado
-- e-mails duplicados são rejeitados na camada de use case
-- as respostas são serializadas em JSON
-
-## 🧪 Status de Testes
-
-Status atual:
-
-- ainda não existe uma suíte automatizada de testes
-- o repositório está focado em aprendizado e experimentação manual por enquanto
-
-Próximo escopo recomendado para testes:
-
-- adicionar testes unitários para a camada de use cases da API REST
-- adicionar testes de handlers para `GET /users` e `POST /users`
-- adicionar testes de validação para cenários de e-mail duplicado
-
-## 🔮 Próximas Melhorias
-
-### 📦 Conteúdo de Aprendizado
-
-- adicionar mais exercícios com goroutines e channels
-- adicionar exemplos de leitura/escrita de arquivos e parsing de JSON
-- adicionar mais desafios com interfaces e composição
-
-### 🌐 REST API
-
-- persistir usuários em um banco real em vez de memória
-- melhorar o tratamento de status HTTP para erros de negócio
-- adicionar validação para nome e e-mail vazios
-- adicionar endpoints de atualização e remoção de usuários
-- adicionar testes para handlers, repositories e use cases
-
-### 🛠️ Tooling
-
-- adicionar fluxo de lint e formatação
-- adicionar CI para build e testes dos exemplos
-- documentar cada pasta numerada com pequenas notas de aprendizado
-
-## 📁 Estrutura de Pastas
+## Árvore do Projeto
 
 ```text
 golang-basics/
-|-- 00_hello/                      # Exemplo introdutório
-|-- 01_build/                      # Conceitos básicos de build e execução
-|-- 02_sum/                        # Aritmética simples
-|-- 03_age/                        # Variáveis e cálculos
-|-- 04_loops/                      # Prática com loops
-|-- 05_birth_year_challenge/       # Pequeno desafio de lógica
-|-- 06_functions/                  # Fundamentos de funções
-|-- 07_copy_params/                # Comportamento de parâmetros por valor
-|-- 08_ref_params/                 # Comportamento de parâmetros por referência
-|-- 09_ponteiros/                  # Prática com ponteiros
-|-- 10_for_range/                  # Iteração com range
-|-- 11_struct/                     # Fundamentos de structs
-|-- 12_errors/                     # Prática com tratamento de erros
-|-- 13_calculadora/                # Exemplo de calculadora
-|-- 14_arrays/                     # Arrays
-|-- 15_slices/                     # Slices
-|-- 16_slices_from_arrays/         # Slices a partir de arrays
-|-- 17_slices_cap/                 # Capacidade de slices
-|-- 18_slices_make/                # Criação de slices com make
-|-- 19_subslices/                  # Subslices
-|-- 20_map/                        # Fundamentos de map
-|-- 21_map_iter/                   # Iteração sobre map
-|-- 22_interface_01/               # Fundamentos de interface
-|-- 23_composition/                # Prática com composição
-|-- 24_mod/                        # Exemplo com módulo e pacotes
-|-- 25_calculadora_modular/        # Projeto de calculadora modular
-|-- 26_rest_api/                   # Projeto de aprendizado com API REST
-|   |-- cmd/
-|   |   |-- api/                   # Entrypoint da API
-|   |   `-- client/                # Exemplo de client HTTP
-|   |-- internal/
-|   |   |-- handlers/              # Handlers HTTP
-|   |   |-- models/                # Modelos de request/response e domínio
-|   |   |-- repositories/          # Abstrações de repositório e implementação em memória
-|   |   `-- usecases/              # Lógica de negócio
-|   |-- go.mod
-|   `-- go.sum
-|-- go.mod                         # Módulo raiz para exercícios simples
-|-- go.work                        # Workspace para exemplos multi-módulo
+|-- exercises/
+|   |-- go-exercises.md
+|   `-- level1/
+|       |-- 01_setup_and_language_basics/
+|       |   |-- 001_hello_world/
+|       |   |-- 002_print_name_age/
+|       |   |-- 003_variables_declaration/
+|       |   |-- 004_read_user_input/
+|       |   |-- ...
+|       `-- 02_string_basics/
+|           |-- 001_concatenate_strings/
+|           |-- 002_reverse_string/
+|           |-- 003_count_vowels/
+|           |-- 004_palindrome_check/
+|           |-- ...
+|-- lessons/
+|   |-- 00_hello/
+|   |-- 01_build/
+|   |-- 02_sum/
+|   |-- 03_age/
+|   |-- 04_loops/
+|   |-- 05_birth_year_challenge/
+|   |-- 06_functions/
+|   |-- 07_copy_params/
+|   |-- 08_ref_params/
+|   |-- 09_ponteiros/
+|   |-- 10_for_range/
+|   |-- 11_struct/
+|   |-- 12_errors/
+|   |-- 14_arrays/
+|   |-- 15_slices/
+|   |-- 16_slices_from_arrays/
+|   |-- 17_slices_cap/
+|   |-- 18_slices_make/
+|   |-- 19_subslices/
+|   |-- 20_map/
+|   |-- 21_map_iter/
+|   |-- 22_interface_01/
+|   `-- 23_composition/
+|-- projects/
+|   |-- 01_calculadora/
+|   |-- 02_mod/
+|   |   |-- operacao/
+|   |   `-- saudacao/
+|   |-- 03_calculadora_modular/
+|   |   |-- operacao/
+|   |   `-- runner/
+|   `-- 04_rest_api/
+|       |-- cmd/
+|       |   |-- api/
+|       |   `-- client/
+|       |-- internal/
+|       |   |-- handlers/
+|       |   |-- models/
+|       |   |-- repositories/
+|       |   |   `-- users/
+|       |   `-- usecases/
+|       `-- pkg/
+|-- go.mod
 |-- LICENSE
-|-- README.md                      # Documentação (English)
-`-- README.pt.md                   # Documentação (Português)
+|-- README.md
+`-- README.pt.md
 ```
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**.
 
-## 👤 Autor
+## Autor
 
 **Piter Gomes** - Computer Science Student (6th Semester) & Full-Stack Developer
 
