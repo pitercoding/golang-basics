@@ -32,7 +32,7 @@
 - ✅ **EX-1.2.07** | Check if a string contains a substring.
 - ✅ **EX-1.2.08** | Remove spaces from a string.
 - ✅ **EX-1.2.09** | Count words in a sentence.
-- ⬜ **EX-1.2.10** | Replace characters in a string.
+- ✅ **EX-1.2.10** | Replace characters in a string.
 - ⬜ **EX-1.2.11** | Extract substring using indices.
 - ⬜ **EX-1.2.12** | Check if string starts with a specific letter.
 - ⬜ **EX-1.2.13** | Check if string ends with a suffix.
