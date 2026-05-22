@@ -45,7 +45,7 @@
 
 - ✅ **EX-1.3.01** | Calculate factorial of a number.
 - ✅ **EX-1.3.02** | Check if a number is prime.
-- ⬜ **EX-1.3.03** | Calculate the area of a circle.
+- ✅ **EX-1.3.03** | Calculate the area of a circle.
 - ⬜ **EX-1.3.04** | Convert Celsius to Fahrenheit and vice versa.
 - ⬜ **EX-1.3.05** | Compute double, triple, and half of a number.
 - ⬜ **EX-1.3.06** | Find remainder of a division.
