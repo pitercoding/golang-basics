@@ -36,7 +36,7 @@
 - ✅ **EX-1.2.11** | Extract substring using indices.
 - ✅ **EX-1.2.12** | Check if string starts with a specific letter.
 - ✅ **EX-1.2.13** | Check if string ends with a suffix.
-- ⬜ **EX-1.2.14** | Split a string using `strings.Split`.
+- ✅ **EX-1.2.14** | Split a string using `strings.Split`.
 - ⬜ **EX-1.2.15** | Join strings using `strings.Join`.
 - ⬜ **EX-1.2.16** | Remove all vowels from a string.
 - ⬜ **EX-1.2.17** | Count numeric digits inside a string.
