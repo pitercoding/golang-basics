@@ -49,7 +49,7 @@
 - ✅ **EX-1.3.04** | Convert Celsius to Fahrenheit and vice versa.
 - ✅ **EX-1.3.05** | Compute double, triple, and half of a number.
 - ✅ **EX-1.3.06** | Find remainder of a division.
-- ⬜ **EX-1.3.07** | Implement exponentiation without `math.Pow`.
+- ✅ **EX-1.3.07** | Implement exponentiation without `math.Pow`.
 - ⬜ **EX-1.3.08** | Approximate square root manually.
 - ⬜ **EX-1.3.09** | Compute average of 3 numbers.
 - ⬜ **EX-1.3.10** | Convert kilometers to meters.
