@@ -53,7 +53,7 @@
 - ✅ **EX-1.3.08** | Approximate square root manually.
 - ✅ **EX-1.3.09** | Compute average of 3 numbers.
 - ✅ **EX-1.3.10** | Convert kilometers to meters.
-- ⬜ **EX-1.3.11** | Convert minutes into hours and minutes.
+- ✅ **EX-1.3.11** | Convert minutes into hours and minutes.
 - ⬜ **EX-1.3.12** | Calculate Body Mass Index (BMI).
 - ⬜ **EX-1.3.13** | Calculate perimeter of a square.
 - ⬜ **EX-1.3.14** | Calculate area of a rectangle.
