@@ -51,7 +51,7 @@
 - ✅ **EX-1.3.06** | Find remainder of a division.
 - ✅ **EX-1.3.07** | Implement exponentiation without `math.Pow`.
 - ✅ **EX-1.3.08** | Approximate square root manually.
-- ⬜ **EX-1.3.09** | Compute average of 3 numbers.
+- ✅ **EX-1.3.09** | Compute average of 3 numbers.
 - ⬜ **EX-1.3.10** | Convert kilometers to meters.
 - ⬜ **EX-1.3.11** | Convert minutes into hours and minutes.
 - ⬜ **EX-1.3.12** | Calculate Body Mass Index (BMI).
