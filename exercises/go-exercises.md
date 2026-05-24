@@ -62,7 +62,7 @@
 
 ### 🧩 Conditionals
 
-- ⬜ **EX-1.4.01** | Check if number is positive, negative, or zero.
+- ✅ **EX-1.4.01** | Check if number is positive, negative, or zero.
 - ⬜ **EX-1.4.02** | Find maximum between two numbers.
 - ⬜ **EX-1.4.03** | Find maximum between three numbers.
 - ⬜ **EX-1.4.04** | Check voting eligibility (age ≥ 16).
