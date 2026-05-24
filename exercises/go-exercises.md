@@ -58,7 +58,7 @@
 - ✅ **EX-1.3.13** | Calculate perimeter of a square.
 - ✅ **EX-1.3.14** | Calculate area of a rectangle.
 - ✅ **EX-1.3.15** | Calculate hypotenuse using Pythagoras.
-- ⬜ **EX-1.3.16** | Swap two variables without a temporary variable.
+- ✅ **EX-1.3.16** | Swap two variables without a temporary variable.
 
 ### 🧩 Conditionals
 
