@@ -71,7 +71,7 @@
 - ✅ **EX-1.4.07** | Check if number is even or odd.
 - ✅ **EX-1.4.08** | Check adulthood (≥18).
 - ✅ **EX-1.4.09** | Classify grades (A, B, C, D).
-- ⬜ **EX-1.4.10** | Check pass/fail based on grade ≥ 7.
+- ✅ **EX-1.4.10** | Check pass/fail based on grade ≥ 7.
 - ⬜ **EX-1.4.11** | Apply discount based on age.
 - ⬜ **EX-1.4.12** | Validate a password condition.
 - ⬜ **EX-1.4.13** | Check if year is a leap year.

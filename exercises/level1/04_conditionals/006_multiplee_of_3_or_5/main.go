@@ -12,7 +12,7 @@ func main() {
 }
 
 func checkMultiple(number int)  {
-	if number % 3 || number % 3 == 0 {
+	if number%3 == 0 || number%5 == 0 {
 		fmt.Println("Number is multiple of 3 or 5")
 	} else {
 		fmt.Println("Number is not multiple of 3 or 5")
