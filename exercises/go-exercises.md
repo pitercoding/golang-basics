@@ -68,7 +68,7 @@
 - ✅ **EX-1.4.04** | Check voting eligibility (age ≥ 16).
 - ✅ **EX-1.4.05** | Check if number is between 10 and 20.
 - ✅ **EX-1.4.06** | Check if number is multiple of 3 or 5.
-- ⬜ **EX-1.4.07** | Check if number is even or odd.
+- ✅ **EX-1.4.07** | Check if number is even or odd.
 - ⬜ **EX-1.4.08** | Check adulthood (≥18).
 - ⬜ **EX-1.4.09** | Classify grades (A, B, C, D).
 - ⬜ **EX-1.4.10** | Check pass/fail based on grade ≥ 7.
