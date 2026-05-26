@@ -83,7 +83,7 @@
 ### 📦 Slices (Arrays in Go)
 
 - ✅ **EX-1.5.01** | Create a slice of integers and print elements.
-- ⬜ **EX-1.5.02** | Sum all elements of a slice.
+- ✅ **EX-1.5.02** | Sum all elements of a slice.
 - ⬜ **EX-1.5.03** | Compute average of slice values.
 - ⬜ **EX-1.5.04** | Count even and odd numbers in a slice.
 - ⬜ **EX-1.5.05** | Find minimum and maximum in a slice.
