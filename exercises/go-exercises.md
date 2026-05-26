@@ -74,7 +74,7 @@
 - ✅ **EX-1.4.10** | Check pass/fail based on grade ≥ 7.
 - ✅ **EX-1.4.11** | Apply discount based on age.
 - ✅ **EX-1.4.12** | Validate a password condition.
-- ⬜ **EX-1.4.13** | Check if year is a leap year.
+- ✅ **EX-1.4.13** | Check if year is a leap year.
 - ⬜ **EX-1.4.14** | Identify season based on input.
 - ⬜ **EX-1.4.15** | Simulate traffic light behavior.
 - ⬜ **EX-1.4.16** | Check if number is positive and even.
