@@ -92,7 +92,7 @@
 - ✅ **EX-1.5.08** | Add elements to a slice using append.
 - ✅ **EX-1.5.09** | Remove element by index.
 - ✅ **EX-1.5.10** | Copy a slice to a new slice.
-- ⬜ **EX-1.5.11** | Concatenate two slices.
+- ✅ **EX-1.5.11** | Concatenate two slices.
 - ⬜ **EX-1.5.12** | Sort slice manually (without sort package).
 - ⬜ **EX-1.5.13** | Check if slice is empty.
 - ⬜ **EX-1.5.14** | Work with slice of strings.
