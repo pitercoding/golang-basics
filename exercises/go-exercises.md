@@ -98,7 +98,7 @@
 - ✅ **EX-1.5.14** | Work with slice of strings.
 - ✅ **EX-1.5.15** | Create and access a 2D slice.
 - ✅ **EX-1.5.16** | Find index of an element in a slice.
-- ⬜ **EX-1.5.17** | Filter values greater than a given number.
+- ✅ **EX-1.5.17** | Filter values greater than a given number.
 
 ---
 
