@@ -89,7 +89,7 @@
 - ✅ **EX-1.5.05** | Find minimum and maximum in a slice.
 - ✅ **EX-1.5.06** | Reverse a slice manually.
 - ✅ **EX-1.5.07** | Check if a value exists in a slice.
-- ⬜ **EX-1.5.08** | Add elements to a slice using append.
+- ✅ **EX-1.5.08** | Add elements to a slice using append.
 - ⬜ **EX-1.5.09** | Remove element by index.
 - ⬜ **EX-1.5.10** | Copy a slice to a new slice.
 - ⬜ **EX-1.5.11** | Concatenate two slices.
