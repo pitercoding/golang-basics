@@ -106,7 +106,7 @@
 
 ### 🔁 Loops
 
-- ⬜ **EX-2.1.01** | Print numbers from 1 to 10 using for loop.
+- ✅ **EX-2.1.01** | Print numbers from 1 to 10 using for loop.
 - ⬜ **EX-2.1.02** | Print even numbers from 1 to 20.
 - ⬜ **EX-2.1.03** | Sum numbers from 1 to 100.
 - ⬜ **EX-2.1.04** | Generate multiplication table of a number.
