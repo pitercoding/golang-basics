@@ -111,7 +111,7 @@
 - ✅ **EX-2.1.03** | Sum numbers from 1 to 100.
 - ✅ **EX-2.1.04** | Generate multiplication table of a number.
 - ✅ **EX-2.1.05** | Generate full multiplication table (1–10).
-- ⬜ **EX-2.1.06** | Create a countdown loop.
+- ✅ **EX-2.1.06** | Create a countdown loop.
 - ⬜ **EX-2.1.07** | Sum N user-input numbers.
 - ⬜ **EX-2.1.08** | Create an infinite loop with break condition.
 - ⬜ **EX-2.1.09** | Use continue to skip values.
