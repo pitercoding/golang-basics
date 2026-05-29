@@ -122,7 +122,7 @@
 - ✅ **EX-2.1.14** | Generate Fibonacci sequence using loop.
 - ✅ **EX-2.1.15** | Compute factorial using loop.
 - ✅ **EX-2.1.16** | Count digits in a number using loop.
-- ⬜ **EX-2.1.17** | Reverse a number using loop logic.
+- ✅ **EX-2.1.17** | Reverse a number using loop logic.
 
 ### 📦 Slices (Intermediate)
 
