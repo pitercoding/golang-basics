@@ -126,7 +126,7 @@
 
 ### 📦 Slices (Intermediate)
 
-- ⬜ **EX-2.2.01** | Remove duplicate values from a slice.
+- ✅ **EX-2.2.01** | Remove duplicate values from a slice.
 - ⬜ **EX-2.2.02** | Sort a slice using manual algorithm.
 - ⬜ **EX-2.2.03** | Find second largest element.
 - ⬜ **EX-2.2.04** | Merge two slices.
