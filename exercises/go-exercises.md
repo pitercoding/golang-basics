@@ -116,7 +116,7 @@
 - ✅ **EX-2.1.08** | Create an infinite loop with break condition.
 - ✅ **EX-2.1.09** | Use continue to skip values.
 - ✅ **EX-2.1.10** | Loop with multiple conditions.
-- ⬜ **EX-2.1.11** | Sum only even numbers in a loop.
+- ✅ **EX-2.1.11** | Sum only even numbers in a loop.
 - ⬜ **EX-2.1.12** | Sum only odd numbers in a loop.
 - ⬜ **EX-2.1.13** | Calculate average using a loop.
 - ⬜ **EX-2.1.14** | Generate Fibonacci sequence using loop.
