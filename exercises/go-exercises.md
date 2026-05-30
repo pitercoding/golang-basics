@@ -139,7 +139,7 @@
 - ✅ **EX-2.2.11** | Implement Kadane’s algorithm (max subarray sum).
 - ✅ **EX-2.2.12** | Find subarray with fixed sum.
 - ✅ **EX-2.2.13** | Remove negative numbers from slice.
-- ⬜ **EX-2.2.14** | Count frequency of numbers in slice.
+- ✅ **EX-2.2.14** | Count frequency of numbers in slice.
 - ⬜ **EX-2.2.15** | Reverse slice manually.
 - ⬜ **EX-2.2.16** | Apply sliding window technique.
 - ⬜ **EX-2.2.17** | Split slice into chunks.
