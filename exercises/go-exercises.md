@@ -130,7 +130,7 @@
 - ✅ **EX-2.2.02** | Sort a slice using manual algorithm.
 - ✅ **EX-2.2.03** | Find second largest element.
 - ✅ **EX-2.2.04** | Merge two slices.
-- ⬜ **EX-2.2.05** | Split slice into even and odd values.
+- ✅ **EX-2.2.05** | Split slice into even and odd values.
 - ⬜ **EX-2.2.06** | Filter only positive numbers.
 - ⬜ **EX-2.2.07** | Search for an element in a slice.
 - ⬜ **EX-2.2.08** | Rotate slice to the left.
