@@ -132,7 +132,7 @@
 - ✅ **EX-2.2.04** | Merge two slices.
 - ✅ **EX-2.2.05** | Split slice into even and odd values.
 - ✅ **EX-2.2.06** | Filter only positive numbers.
-- ⬜ **EX-2.2.07** | Search for an element in a slice.
+- ✅ **EX-2.2.07** | Search for an element in a slice.
 - ⬜ **EX-2.2.08** | Rotate slice to the left.
 - ⬜ **EX-2.2.09** | Rotate slice to the right.
 - ⬜ **EX-2.2.10** | Merge sorted slices.
