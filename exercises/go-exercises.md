@@ -136,7 +136,7 @@
 - ✅ **EX-2.2.08** | Rotate slice to the left.
 - ✅ **EX-2.2.09** | Rotate slice to the right.
 - ✅ **EX-2.2.10** | Merge sorted slices.
-- ⬜ **EX-2.2.11** | Implement Kadane’s algorithm (max subarray sum).
+- ✅ **EX-2.2.11** | Implement Kadane’s algorithm (max subarray sum).
 - ⬜ **EX-2.2.12** | Find subarray with fixed sum.
 - ⬜ **EX-2.2.13** | Remove negative numbers from slice.
 - ⬜ **EX-2.2.14** | Count frequency of numbers in slice.
