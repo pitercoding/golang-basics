@@ -147,7 +147,7 @@
 ### 🗺️ Maps
 
 - ✅ **EX-2.3.01** | Create a simple map and print values.
-- ⬜ **EX-2.3.02** | Retrieve value from map using key.
+- ✅ **EX-2.3.02** | Retrieve value from map using key.
 - ⬜ **EX-2.3.03** | Check if key exists in map.
 - ⬜ **EX-2.3.04** | Delete key from map.
 - ⬜ **EX-2.3.05** | Iterate over map entries.
