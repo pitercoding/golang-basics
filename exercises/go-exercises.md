@@ -291,13 +291,42 @@
 
 ## 🔴 LEVEL 6 — Projects (Real World Go)
 
-- ⬜ **EX-6.1.01** | Build CLI calculator.
-- ⬜ **EX-6.1.02** | Build in-memory CRUD system.
-- ⬜ **EX-6.1.03** | Build terminal to-do list.
-- ⬜ **EX-6.1.04** | Build banking system simulator.
-- ⬜ **EX-6.1.05** | Build file reader application.
-- ⬜ **EX-6.1.06** | Build basic HTTP server API.
-- ⬜ **EX-6.1.07** | Build simple login system.
-- ⬜ **EX-6.1.08** | Build tic-tac-toe game.
-- ⬜ **EX-6.1.09** | Build inventory management system.
-- ⬜ **EX-6.1.10** | Build password generator tool.
+### 🟢 Projects for Level 1 — Fundamentals
+
+- ⬜ **EX-6.1.01** | Build Hello User CLI (ask name and greet user).
+- ⬜ **EX-6.1.02** | Build Age Calculator (calculate age from birth year).
+- ⬜ **EX-6.1.03** | Build Unit Converter (km↔m, °C↔°F, minutes↔hours).
+- ⬜ **EX-6.1.04** | Build Simple Grade Calculator.
+- ⬜ **EX-6.1.05** | Build Basic BMI Calculator.
+
+### 🟡 Projects for Level 2 — Flow Control & Data Structures
+
+- ⬜ **EX-6.2.01** | Build CLI calculator.
+- ⬜ **EX-6.2.02** | Build terminal to-do list.
+- ⬜ **EX-6.2.03** | Build password generator tool.
+
+### 🔵 Projects for Level 3 — Functions & Structs
+
+- ⬜ **EX-6.3.01** | Build file reader application.
+- ⬜ **EX-6.3.02** | Build simple login system.
+- ⬜ **EX-6.3.03** | Build in-memory CRUD system.
+- ⬜ **EX-6.3.04** | Build inventory management system.
+- ⬜ **EX-6.3.05** | Build banking system simulator.
+
+### 🟣 Projects for Level 4 — Data Structures & Algorithms
+
+- ⬜ **EX-6.4.01** | Build tic-tac-toe game.
+- ⬜ **EX-6.4.02** | Build contact manager with search.
+- ⬜ **EX-6.4.03** | Build text analyzer (word and letter statistics).
+
+### 🟠 Projects for Level 5 — Concurrency
+
+- ⬜ **EX-6.5.01** | Build concurrent file processor.
+- ⬜ **EX-6.5.02** | Build worker pool task runner.
+- ⬜ **EX-6.5.03** | Build concurrent log analyzer.
+
+### 🔴 Advanced Projects (After Level 5)
+
+- ⬜ **EX-6.6.01** | Build basic HTTP server API.
+- ⬜ **EX-6.6.02** | Build REST API with CRUD operations.
+- ⬜ **EX-6.6.03** | Build user authentication API.
