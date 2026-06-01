@@ -153,7 +153,7 @@
 - ✅ **EX-2.3.05** | Iterate over map entries.
 - ✅ **EX-2.3.06** | Create name → age map.
 - ✅ **EX-2.3.07** | Create product → price map.
-- ⬜ **EX-2.3.08** | Compute average of map values.
+- ✅ **EX-2.3.08** | Compute average of map values.
 - ⬜ **EX-2.3.09** | Count word frequency in text.
 - ⬜ **EX-2.3.10** | Count letter frequency in string.
 - ⬜ **EX-2.3.11** | Reverse a map (key-value swap).
