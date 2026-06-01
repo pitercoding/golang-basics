@@ -158,7 +158,7 @@
 - ✅ **EX-2.3.10** | Count letter frequency in string.
 - ✅ **EX-2.3.11** | Reverse a map (key-value swap).
 - ✅ **EX-2.3.12** | Group values by category.
-- ⬜ **EX-2.3.13** | Update values inside map.
+- ✅ **EX-2.3.13** | Update values inside map.
 - ⬜ **EX-2.3.14** | Create map of slices.
 - ⬜ **EX-2.3.15** | Sum values grouped by key.
 - ⬜ **EX-2.3.16** | Use map as counter structure.
