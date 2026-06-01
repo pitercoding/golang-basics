@@ -155,7 +155,7 @@
 - ✅ **EX-2.3.07** | Create product → price map.
 - ✅ **EX-2.3.08** | Compute average of map values.
 - ✅ **EX-2.3.09** | Count word frequency in text.
-- ⬜ **EX-2.3.10** | Count letter frequency in string.
+- ✅ **EX-2.3.10** | Count letter frequency in string.
 - ⬜ **EX-2.3.11** | Reverse a map (key-value swap).
 - ⬜ **EX-2.3.12** | Group values by category.
 - ⬜ **EX-2.3.13** | Update values inside map.
