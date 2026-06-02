@@ -297,7 +297,7 @@
 - ✅ **EX-6.1.02** | Build Age Calculator (calculate age from birth year).
 - ✅ **EX-6.1.03** | Build Unit Converter (km↔m, °C↔°F, minutes↔hours).
 - ✅ **EX-6.1.04** | Build Simple Grade Calculator.
-- ⬜ **EX-6.1.05** | Build Basic BMI Calculator.
+- ✅ **EX-6.1.05** | Build Basic BMI Calculator.
 
 ### 🟡 Projects for Level 2 — Flow Control & Data Structures
 
