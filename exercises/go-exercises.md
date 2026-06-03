@@ -302,7 +302,7 @@
 ### 🟡 Projects for Level 2 — Flow Control & Data Structures
 
 - ✅ **EX-6.2.01** | Build CLI calculator.
-- ⬜ **EX-6.2.02** | Build terminal to-do list.
+- ✅ **EX-6.2.02** | Build terminal to-do list.
 - ⬜ **EX-6.2.03** | Build password generator tool.
 
 ### 🔵 Projects for Level 3 — Functions & Structs
