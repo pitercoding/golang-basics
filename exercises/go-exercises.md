@@ -174,7 +174,7 @@
 - ✅ **EX-3.1.03** | Return multiple values from function.
 - ✅ **EX-3.1.04** | Create prime-check function.
 - ✅ **EX-3.1.05** | Create BMI calculation function.
-- ⬜ **EX-3.1.06** | Implement recursive factorial function.
+- ✅ **EX-3.1.06** | Implement recursive factorial function.
 - ⬜ **EX-3.1.07** | Implement recursive Fibonacci function.
 - ⬜ **EX-3.1.08** | Function that computes slice average.
 - ⬜ **EX-3.1.09** | Function that returns maximum value.
