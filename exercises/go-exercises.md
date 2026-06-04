@@ -169,7 +169,7 @@
 
 ### ⚙️ Functions
 
-- ⬜ **EX-3.1.01** | Create a function that sums two numbers.
+- ✅ **EX-3.1.01** | Create a function that sums two numbers.
 - ⬜ **EX-3.1.02** | Create subtraction function.
 - ⬜ **EX-3.1.03** | Return multiple values from function.
 - ⬜ **EX-3.1.04** | Create prime-check function.
