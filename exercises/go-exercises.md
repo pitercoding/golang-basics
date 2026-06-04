@@ -178,7 +178,7 @@
 - ✅ **EX-3.1.07** | Implement recursive Fibonacci function.
 - ✅ **EX-3.1.08** | Function that computes slice average.
 - ✅ **EX-3.1.09** | Function that returns maximum value.
-- ⬜ **EX-3.1.10** | Function that returns minimum value.
+- ✅ **EX-3.1.10** | Function that returns minimum value.
 
 ### 🧱 Structs (Go OOP Style)
 
