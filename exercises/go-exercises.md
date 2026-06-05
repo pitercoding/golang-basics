@@ -187,7 +187,7 @@
 - ✅ **EX-3.2.03** | Create `Product` struct with price.
 - ✅ **EX-3.2.04** | Create `Rectangle` struct with area method.
 - ✅ **EX-3.2.05** | Create `BankAccount` struct.
-- ⬜ **EX-3.2.06** | Create `Car` struct.
+- ✅ **EX-3.2.06** | Create `Car` struct.
 - ⬜ **EX-3.2.07** | Add method to compute area.
 - ⬜ **EX-3.2.08** | Add method to apply discount.
 - ⬜ **EX-3.2.09** | Add method to move a car.
