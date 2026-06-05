@@ -184,7 +184,7 @@
 
 - ✅ **EX-3.2.01** | Create a `Person` struct (name, age).
 - ✅ **EX-3.2.02** | Add method to greet using receiver function.
-- ⬜ **EX-3.2.03** | Create `Product` struct with price.
+- ✅ **EX-3.2.03** | Create `Product` struct with price.
 - ⬜ **EX-3.2.04** | Create `Rectangle` struct with area method.
 - ⬜ **EX-3.2.05** | Create `BankAccount` struct.
 - ⬜ **EX-3.2.06** | Create `Car` struct.
