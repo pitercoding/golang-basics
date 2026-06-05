@@ -182,7 +182,7 @@
 
 ### 🧱 Structs (Go OOP Style)
 
-- ⬜ **EX-3.2.01** | Create a `Person` struct (name, age).
+- ✅ **EX-3.2.01** | Create a `Person` struct (name, age).
 - ⬜ **EX-3.2.02** | Add method to greet using receiver function.
 - ⬜ **EX-3.2.03** | Create `Product` struct with price.
 - ⬜ **EX-3.2.04** | Create `Rectangle` struct with area method.
