@@ -197,7 +197,7 @@
 - ✅ **EX-3.2.13** | Create `Student` struct with grades and status.
 - ✅ **EX-3.2.14** | Create `Library` struct.
 - ✅ **EX-3.2.15** | Create `Inventory` struct.
-- ⬜ **EX-3.2.16** | Create User login struct.
+- ✅ **EX-3.2.16** | Create User login struct.
 - ⬜ **EX-3.2.17** | Create Bank transaction struct.
 
 ### 🧩 Structured Logic
