@@ -202,7 +202,7 @@
 
 ### 🧩 Structured Logic
 
-- ⬜ **EX-3.3.01** | Classify BMI result.
+- ✅ **EX-3.3.01** | Classify BMI result.
 - ⬜ **EX-3.3.02** | Classify age group.
 - ⬜ **EX-3.3.03** | Simulate traffic light logic.
 - ⬜ **EX-3.3.04** | Build unit conversion logic.
