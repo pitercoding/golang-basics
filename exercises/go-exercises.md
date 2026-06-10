@@ -205,7 +205,7 @@
 - ✅ **EX-3.3.01** | Classify BMI result.
 - ✅ **EX-3.3.02** | Classify age group.
 - ✅ **EX-3.3.03** | Simulate traffic light logic.
-- ⬜ **EX-3.3.04** | Build unit conversion logic.
+- ✅ **EX-3.3.04** | Build unit conversion logic.
 - ⬜ **EX-3.3.05** | Check numeric palindrome.
 - ⬜ **EX-3.3.06** | Check capicua number.
 - ⬜ **EX-3.3.07** | Optimize prime check logic.
