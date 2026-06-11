@@ -209,7 +209,7 @@
 - ✅ **EX-3.3.05** | Check numeric palindrome.
 - ✅ **EX-3.3.06** | Check capicua number.
 - ✅ **EX-3.3.07** | Optimize prime check logic.
-- ⬜ **EX-3.3.08** | Sum digits of a number.
+- ✅ **EX-3.3.08** | Sum digits of a number.
 - ⬜ **EX-3.3.09** | Multiply digits of a number.
 - ⬜ **EX-3.3.10** | Analyze number properties.
 
