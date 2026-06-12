@@ -307,7 +307,7 @@
 
 ### 🔵 Projects for Level 3 — Functions & Structs
 
-- ⬜ **EX-6.3.01** | Build file reader application.
+- ✅ **EX-6.3.01** | Build file reader application.
 - ⬜ **EX-6.3.02** | Build simple login system.
 - ⬜ **EX-6.3.03** | Build in-memory CRUD system.
 - ⬜ **EX-6.3.04** | Build inventory management system.
