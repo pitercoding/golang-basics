@@ -311,7 +311,7 @@
 - ✅ **EX-6.3.02** | Build simple login system.
 - ✅ **EX-6.3.03** | Build in-memory CRUD system.
 - ✅ **EX-6.3.04** | Build inventory management system.
-- ⬜ **EX-6.3.05** | Build banking system simulator.
+- ✅ **EX-6.3.05** | Build banking system simulator.
 
 ### 🟣 Projects for Level 4 — Data Structures & Algorithms
 
