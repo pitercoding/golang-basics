@@ -219,7 +219,7 @@
 
 ### 📦 Advanced Slices
 
-- ⬜ **EX-4.1.01** | Implement linear search.
+- ✅ **EX-4.1.01** | Implement linear search.
 - ⬜ **EX-4.1.02** | Implement binary search.
 - ⬜ **EX-4.1.03** | Find second largest element.
 - ⬜ **EX-4.1.04** | Merge arrays efficiently.
