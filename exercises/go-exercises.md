@@ -222,7 +222,7 @@
 - ✅ **EX-4.1.01** | Implement linear search.
 - ✅ **EX-4.1.02** | Implement binary search.
 - ✅ **EX-4.1.03** | Find second largest element.
-- ⬜ **EX-4.1.04** | Merge arrays efficiently.
+- ✅ **EX-4.1.04** | Merge arrays efficiently.
 - ⬜ **EX-4.1.05** | Find intersection of slices.
 - ⬜ **EX-4.1.06** | Extract unique elements.
 - ⬜ **EX-4.1.07** | Reverse slice in-place.
