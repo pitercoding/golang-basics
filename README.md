@@ -73,6 +73,8 @@ This structure helps turn theory into repetition and repetition into implementat
 
 ## How To Run
 
+All lessons, exercises, and most study projects are small Go programs with their own `main.go`.
+
 ### 1. Clone the repository
 
 ```bash
@@ -80,25 +82,40 @@ git clone https://github.com/pitercoding/golang-basics.git
 cd golang-basics
 ```
 
-### 2. Run a lesson
+### 2. Run a lesson from the root module
 
 ```bash
 go run ./lessons/00_hello
 ```
 
-### 3. Run an exercise
+### 3. Run an exercise by level and topic
 
-```bash
-go run ./exercises/level1/01_setup_and_language_basics/001_hello_world
+Exercises follow the roadmap in `exercises/go-exercises.md`:
+
+```text
+exercises/<level>/<topic>/<exercise_folder>
 ```
 
-### 4. Run a project
+Example:
 
 ```bash
-go run ./projects/01_calculadora
+go run ./exercises/level-1-fundamentals/1.1-basics/001_hello_world
 ```
 
-Some project folders use their own `go.mod`, so you can also run them from inside the specific directory when needed.
+### 4. Run a project by level
+
+Projects that match the roadmap are grouped by study level:
+
+```bash
+go run ./projects/level-1/01_hello_user_cli
+```
+
+Legacy projects are kept in `projects/legacy`. Some of them have their own `go.mod`, so run those from inside the specific project directory when needed:
+
+```bash
+cd projects/legacy/04_rest_api
+go run ./cmd/api
+```
 
 ## Project Tree
 
@@ -106,19 +123,22 @@ Some project folders use their own `go.mod`, so you can also run them from insid
 golang-basics/
 |-- exercises/
 |   |-- go-exercises.md
-|   `-- level1/
-|       |-- 01_setup_and_language_basics/
-|       |   |-- 001_hello_world/
-|       |   |-- 002_print_name_age/
-|       |   |-- 003_variables_declaration/
-|       |   |-- 004_read_user_input/
-|       |   |-- ...
-|       `-- 02_string_basics/
-|           |-- 001_concatenate_strings/
-|           |-- 002_reverse_string/
-|           |-- 003_count_vowels/
-|           |-- 004_palindrome_check/
-|           |-- ...
+|   |-- level-1-fundamentals/
+|   |   |-- 1.1-basics/
+|   |   |-- 1.2-strings/
+|   |   |-- 1.3-math/
+|   |   |-- 1.4-conditionals/
+|   |   `-- 1.5-slices/
+|   |-- level-2-flow-control/
+|   |   |-- 2.1-loops/
+|   |   |-- 2.2-slices-intermediate/
+|   |   `-- 2.3-maps/
+|   |-- level-3-core-go/
+|   |   |-- 3.1-functions/
+|   |   |-- 3.2-structs/
+|   |   `-- 3.3-structured-logic/
+|   `-- level-4-data-structures-and-algorithms/
+|       `-- 4.1-advanced-slices/
 |-- lessons/
 |   |-- 00_hello/
 |   |-- 01_build/
@@ -144,24 +164,27 @@ golang-basics/
 |   |-- 22_interface_01/
 |   `-- 23_composition/
 |-- projects/
-|   |-- 01_calculadora/
-|   |-- 02_mod/
-|   |   |-- operacao/
-|   |   `-- saudacao/
-|   |-- 03_calculadora_modular/
-|   |   |-- operacao/
-|   |   `-- runner/
-|   `-- 04_rest_api/
-|       |-- cmd/
-|       |   |-- api/
-|       |   `-- client/
-|       |-- internal/
-|       |   |-- handlers/
-|       |   |-- models/
-|       |   |-- repositories/
-|       |   |   `-- users/
-|       |   `-- usecases/
-|       `-- pkg/
+|   |-- level-1/
+|   |   |-- 01_hello_user_cli/
+|   |   |-- 02_age_calculator/
+|   |   |-- 03_unit_converter/
+|   |   |-- 04_grade_calculator/
+|   |   `-- 05_bmi_calculator/
+|   |-- level-2/
+|   |   |-- 01_cli_calculator/
+|   |   |-- 02_terminal_todo_list/
+|   |   `-- 03_password_generator/
+|   |-- level-3/
+|   |   |-- 01_file_reader_application/
+|   |   |-- 02_simple_login_system/
+|   |   |-- 03_in_memory_crud_system/
+|   |   |-- 04_inventory_management_system/
+|   |   `-- 05_banking_system_simulator/
+|   `-- legacy/
+|       |-- 01_calculadora/
+|       |-- 02_mod/
+|       |-- 03_calculadora_modular/
+|       `-- 04_rest_api/
 |-- go.mod
 |-- LICENSE
 |-- README.md
