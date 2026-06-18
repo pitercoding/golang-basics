@@ -225,7 +225,7 @@
 - ✅ **EX-4.1.04** | Merge arrays efficiently.
 - ✅ **EX-4.1.05** | Find intersection of slices.
 - ✅ **EX-4.1.06** | Extract unique elements.
-- ⬜ **EX-4.1.07** | Reverse slice in-place.
+- ✅ **EX-4.1.07** | Reverse slice in-place.
 - ⬜ **EX-4.1.08** | Apply sliding window maximum.
 - ⬜ **EX-4.1.09** | Compute prefix sum array.
 - ⬜ **EX-4.1.10** | Implement Kadane algorithm.
