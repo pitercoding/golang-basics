@@ -230,7 +230,7 @@
 - ✅ **EX-4.1.09** | Compute prefix sum array.
 - ✅ **EX-4.1.10** | Implement Kadane algorithm.
 - ✅ **EX-4.1.11** | Use two-pointer technique.
-- ⬜ **EX-4.1.12** | Remove duplicates efficiently.
+- ✅ **EX-4.1.12** | Remove duplicates efficiently.
 - ⬜ **EX-4.1.13** | Rotate array implementation.
 - ⬜ **EX-4.1.14** | Split array into parts.
 - ⬜ **EX-4.1.15** | Flatten nested slice.
