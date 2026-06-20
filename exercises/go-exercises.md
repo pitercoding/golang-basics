@@ -233,7 +233,7 @@
 - ✅ **EX-4.1.12** | Remove duplicates efficiently.
 - ✅ **EX-4.1.13** | Rotate array implementation.
 - ✅ **EX-4.1.14** | Split array into parts.
-- ⬜ **EX-4.1.15** | Flatten nested slice.
+- ✅ **EX-4.1.15** | Flatten nested slice.
 - ⬜ **EX-4.1.16** | Compare two slices.
 - ⬜ **EX-4.1.17** | Validate ordering in slice.
 
