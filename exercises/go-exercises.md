@@ -242,7 +242,7 @@
 - ✅ **EX-4.2.01** | Group people by city.
 - ✅ **EX-4.2.02** | Analyze word frequency.
 - ✅ **EX-4.2.03** | Analyze letter frequency.
-- ⬜ **EX-4.2.04** | Use nested maps.
+- ✅ **EX-4.2.04** | Use nested maps.
 - ⬜ **EX-4.2.05** | Simulate map-reduce behavior.
 - ⬜ **EX-4.2.06** | Filter map values.
 - ⬜ **EX-4.2.07** | Aggregate map data.
