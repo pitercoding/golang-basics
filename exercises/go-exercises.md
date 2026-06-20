@@ -239,7 +239,7 @@
 
 ### 🗺️ Advanced Maps
 
-- ⬜ **EX-4.2.01** | Group people by city.
+- ✅ **EX-4.2.01** | Group people by city.
 - ⬜ **EX-4.2.02** | Analyze word frequency.
 - ⬜ **EX-4.2.03** | Analyze letter frequency.
 - ⬜ **EX-4.2.04** | Use nested maps.
