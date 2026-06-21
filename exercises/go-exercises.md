@@ -244,7 +244,7 @@
 - ✅ **EX-4.2.03** | Analyze letter frequency.
 - ✅ **EX-4.2.04** | Use nested maps.
 - ✅ **EX-4.2.05** | Simulate map-reduce behavior.
-- ⬜ **EX-4.2.06** | Filter map values.
+- ✅ **EX-4.2.06** | Filter map values.
 - ⬜ **EX-4.2.07** | Aggregate map data.
 - ⬜ **EX-4.2.08** | Count events using map.
 - ⬜ **EX-4.2.09** | Compute statistics from map.
