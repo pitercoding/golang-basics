@@ -248,7 +248,7 @@
 - ✅ **EX-4.2.07** | Aggregate map data.
 - ✅ **EX-4.2.08** | Count events using map.
 - ✅ **EX-4.2.09** | Compute statistics from map.
-- ⬜ **EX-4.2.10** | Perform map-based analytics.
+- ✅ **EX-4.2.10** | Perform map-based analytics.
 
 ### 🔁 Algorithms
 
