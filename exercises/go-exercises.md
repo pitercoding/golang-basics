@@ -253,7 +253,7 @@
 ### 🔁 Algorithms
 
 - ✅ **EX-4.3.01** | Implement bubble sort.
-- ⬜ **EX-4.3.02** | Implement selection sort.
+- ✅ **EX-4.3.02** | Implement selection sort.
 - ⬜ **EX-4.3.03** | Implement insertion sort.
 - ⬜ **EX-4.3.04** | Linear search algorithm.
 - ⬜ **EX-4.3.05** | Binary search algorithm.
