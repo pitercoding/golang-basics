@@ -257,7 +257,7 @@
 - ✅ **EX-4.3.03** | Implement insertion sort.
 - ✅ **EX-4.3.04** | Linear search algorithm.
 - ✅ **EX-4.3.05** | Binary search algorithm.
-- ⬜ **EX-4.3.06** | Kadane algorithm.
+- ✅ **EX-4.3.06** | Kadane algorithm.
 - ⬜ **EX-4.3.07** | Solve two-sum problem.
 - ⬜ **EX-4.3.08** | Validate parentheses.
 - ⬜ **EX-4.3.09** | Check anagram strings.
