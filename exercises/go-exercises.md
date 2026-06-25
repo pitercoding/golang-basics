@@ -315,7 +315,7 @@
 
 ### 🟣 Projects for Level 4 — Data Structures & Algorithms
 
-- ⬜ **EX-6.4.01** | Build tic-tac-toe game.
+- ✅ **EX-6.4.01** | Build tic-tac-toe game.
 - ⬜ **EX-6.4.02** | Build contact manager with search.
 - ⬜ **EX-6.4.03** | Build text analyzer (word and letter statistics).
 
