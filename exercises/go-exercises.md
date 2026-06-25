@@ -261,7 +261,7 @@
 - ✅ **EX-4.3.07** | Solve two-sum problem.
 - ✅ **EX-4.3.08** | Validate parentheses.
 - ✅ **EX-4.3.09** | Check anagram strings.
-- ⬜ **EX-4.3.10** | Check palindrome strings.
+- ✅ **EX-4.3.10** | Check palindrome strings.
 
 ---
 
