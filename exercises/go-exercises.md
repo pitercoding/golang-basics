@@ -273,7 +273,7 @@
 - ✅ **EX-5.1.02** | Run functions in parallel.
 - ✅ **EX-5.1.03** | Create and use channels.
 - ✅ **EX-5.1.04** | Send and receive data via channel.
-- ⬜ **EX-5.1.05** | Implement producer-consumer pattern.
+- ✅ **EX-5.1.05** | Implement producer-consumer pattern.
 - ⬜ **EX-5.1.06** | Use buffered channels.
 - ⬜ **EX-5.1.07** | Use `WaitGroup` for synchronization.
 - ⬜ **EX-5.1.08** | Build worker pool system.
