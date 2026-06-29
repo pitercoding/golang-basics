@@ -280,7 +280,7 @@
 - ✅ **EX-5.1.09** | Build pipeline with channels.
 - ✅ **EX-5.1.10** | Implement fan-in/fan-out pattern.
 - ✅ **EX-5.1.11** | Use select with timeout.
-- ⬜ **EX-5.1.12** | Cancel execution using context.
+- ✅ **EX-5.1.12** | Cancel execution using context.
 - ⬜ **EX-5.1.13** | Synchronize multiple goroutines.
 - ⬜ **EX-5.1.14** | Demonstrate race condition.
 - ⬜ **EX-5.1.15** | Use mutex for protection.
