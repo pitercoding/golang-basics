@@ -285,7 +285,7 @@
 - ✅ **EX-5.1.14** | Demonstrate race condition.
 - ✅ **EX-5.1.15** | Use mutex for protection.
 - ✅ **EX-5.1.16** | Safely close channels.
-- ⬜ **EX-5.1.17** | Demonstrate deadlock scenario.
+- ✅ **EX-5.1.17** | Demonstrate deadlock scenario.
 
 ---
 
