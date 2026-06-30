@@ -321,7 +321,7 @@
 
 ### 🟠 Projects for Level 5 — Concurrency
 
-- ⬜ **EX-6.5.01** | Build concurrent file processor.
+- ✅ **EX-6.5.01** | Build concurrent file processor.
 - ⬜ **EX-6.5.02** | Build worker pool task runner.
 - ⬜ **EX-6.5.03** | Build concurrent log analyzer.
 

@@ -1,0 +1,2 @@
+Go is simple and powerful.
+Go is fast.
