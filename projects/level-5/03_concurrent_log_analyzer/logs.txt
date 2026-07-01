@@ -1,0 +1,8 @@
+[INFO] User logged in
+[INFO] File uploaded
+[WARN] Disk space low
+[ERROR] Database connection failed
+[INFO] User logged out
+[ERROR] Invalid password
+[WARN] High memory usage
+[INFO] Backup completed
