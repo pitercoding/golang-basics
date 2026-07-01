@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Idiomas:</strong><br>
-  <a href="README.pt.md">Portugues</a> |
+  <a href="README.pt.md">Português</a> |
   <a href="README.md">English</a>
 </p>
 
@@ -48,11 +48,13 @@ A pasta `exercises` é a área de prática do repositório.
 
 Ela está organizada por nível de aprendizado e por tema, com cada exercício vivendo em sua própria pasta e arquivo `main.go`.
 
-O roadmap atual de exercícios está documentado em `exercises/go-exercises.md`.
+O roadmap atual de exercícios e projetos está documentado em `go-exercises-and-projects-roadmap.md`.
 
 ### `projects`
 
 A pasta `projects` reúne exemplos mais amplos, que conectam vários conceitos de Go dentro do mesmo código.
+
+Os projetos estão organizados por nível de estudo, de `level-1` a `level-6`, com experimentos antigos preservados em `projects/legacy`.
 
 Essa área é útil para praticar:
 
@@ -90,7 +92,7 @@ go run ./lessons/00_hello
 
 ### 3. Rodar um exercício por nível e tema
 
-Os exercícios seguem o roadmap em `exercises/go-exercises.md`:
+Os exercícios seguem o roadmap em `go-exercises-and-projects-roadmap.md`:
 
 ```text
 exercises/<level>/<topic>/<exercise_folder>
@@ -104,7 +106,7 @@ go run ./exercises/level-1-fundamentals/1.1-basics/001_hello_world
 
 ### 4. Rodar um projeto por nível
 
-Os projetos alinhados ao roadmap estão agrupados por nível de estudo:
+Os projetos alinhados ao `go-exercises-and-projects-roadmap.md` estão agrupados por nível de estudo:
 
 ```bash
 go run ./projects/level-1/01_hello_user_cli
@@ -121,8 +123,8 @@ go run ./cmd/api
 
 ```text
 golang-basics/
+|-- go-exercises-and-projects-roadmap.md
 |-- exercises/
-|   |-- go-exercises.md
 |   |-- level-1-fundamentals/
 |   |   |-- 1.1-basics/
 |   |   |-- 1.2-strings/
@@ -137,8 +139,12 @@ golang-basics/
 |   |   |-- 3.1-functions/
 |   |   |-- 3.2-structs/
 |   |   `-- 3.3-structured-logic/
-|   `-- level-4-data-structures-and-algorithms/
-|       `-- 4.1-advanced-slices/
+|   |-- level-4-data-structures-and-algorithms/
+|   |   |-- 4.1-advanced-slices/
+|   |   |-- 4.2-advanced-maps/
+|   |   `-- 4.3-algorithms/
+|   `-- level-5-concurrency/
+|       `-- 5.1-goroutines-and-channels/
 |-- lessons/
 |   |-- 00_hello/
 |   |-- 01_build/
@@ -180,6 +186,18 @@ golang-basics/
 |   |   |-- 03_in_memory_crud_system/
 |   |   |-- 04_inventory_management_system/
 |   |   `-- 05_banking_system_simulator/
+|   |-- level-4/
+|   |   |-- 01_tic_tac_toe_game/
+|   |   |-- 02_contact_manager_with_search/
+|   |   `-- 03_text_analyzer/
+|   |-- level-5/
+|   |   |-- 01_concurrent_file_processor/
+|   |   |-- 02_worker_pool_task_runner/
+|   |   `-- 03_concurrent_log_analyzer/
+|   |-- level-6/
+|   |   |-- 01_basic_http_server_api/
+|   |   |-- 02_rest_api_crud/
+|   |   `-- 03_user_authentication_api/
 |   `-- legacy/
 |       |-- 01_calculadora/
 |       |-- 02_mod/

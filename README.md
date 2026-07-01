@@ -48,11 +48,13 @@ The `exercises` folder is the practice area of the repository.
 
 It is organized by learning level and topic, with each exercise living in its own folder and `main.go` file.
 
-The current roadmap is documented in `exercises/go-exercises.md`.
+The current exercises and projects roadmap is documented in `go-exercises-and-projects-roadmap.md`.
 
 ### `projects`
 
 The `projects` folder groups broader examples that connect multiple Go concepts in the same codebase.
+
+Projects are organized by study level from `level-1` to `level-6`, with older experiments preserved in `projects/legacy`.
 
 This area is useful for practicing:
 
@@ -90,7 +92,7 @@ go run ./lessons/00_hello
 
 ### 3. Run an exercise by level and topic
 
-Exercises follow the roadmap in `exercises/go-exercises.md`:
+Exercises follow the roadmap in `go-exercises-and-projects-roadmap.md`:
 
 ```text
 exercises/<level>/<topic>/<exercise_folder>
@@ -104,7 +106,7 @@ go run ./exercises/level-1-fundamentals/1.1-basics/001_hello_world
 
 ### 4. Run a project by level
 
-Projects that match the roadmap are grouped by study level:
+Projects that match `go-exercises-and-projects-roadmap.md` are grouped by study level:
 
 ```bash
 go run ./projects/level-1/01_hello_user_cli
@@ -121,8 +123,8 @@ go run ./cmd/api
 
 ```text
 golang-basics/
+|-- go-exercises-and-projects-roadmap.md
 |-- exercises/
-|   |-- go-exercises.md
 |   |-- level-1-fundamentals/
 |   |   |-- 1.1-basics/
 |   |   |-- 1.2-strings/
@@ -137,8 +139,12 @@ golang-basics/
 |   |   |-- 3.1-functions/
 |   |   |-- 3.2-structs/
 |   |   `-- 3.3-structured-logic/
-|   `-- level-4-data-structures-and-algorithms/
-|       `-- 4.1-advanced-slices/
+|   |-- level-4-data-structures-and-algorithms/
+|   |   |-- 4.1-advanced-slices/
+|   |   |-- 4.2-advanced-maps/
+|   |   `-- 4.3-algorithms/
+|   `-- level-5-concurrency/
+|       `-- 5.1-goroutines-and-channels/
 |-- lessons/
 |   |-- 00_hello/
 |   |-- 01_build/
@@ -180,6 +186,18 @@ golang-basics/
 |   |   |-- 03_in_memory_crud_system/
 |   |   |-- 04_inventory_management_system/
 |   |   `-- 05_banking_system_simulator/
+|   |-- level-4/
+|   |   |-- 01_tic_tac_toe_game/
+|   |   |-- 02_contact_manager_with_search/
+|   |   `-- 03_text_analyzer/
+|   |-- level-5/
+|   |   |-- 01_concurrent_file_processor/
+|   |   |-- 02_worker_pool_task_runner/
+|   |   `-- 03_concurrent_log_analyzer/
+|   |-- level-6/
+|   |   |-- 01_basic_http_server_api/
+|   |   |-- 02_rest_api_crud/
+|   |   `-- 03_user_authentication_api/
 |   `-- legacy/
 |       |-- 01_calculadora/
 |       |-- 02_mod/
