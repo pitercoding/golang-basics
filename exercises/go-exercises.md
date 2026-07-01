@@ -329,4 +329,4 @@
 
 - ✅ **EX-6.6.01** | Build basic HTTP server API.
 - ✅ **EX-6.6.02** | Build REST API with CRUD operations.
-- ⬜ **EX-6.6.03** | Build user authentication API.
+- ✅ **EX-6.6.03** | Build user authentication API.
