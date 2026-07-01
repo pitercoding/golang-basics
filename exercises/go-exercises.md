@@ -325,8 +325,8 @@
 - ✅ **EX-6.5.02** | Build worker pool task runner.
 - ✅ **EX-6.5.03** | Build concurrent log analyzer.
 
-### 🔴 Advanced Projects (After Level 5)
+### 🔴 Projects for Level 6 (Advanced Projects)
 
-- ⬜ **EX-6.6.01** | Build basic HTTP server API.
+- ✅ **EX-6.6.01** | Build basic HTTP server API.
 - ⬜ **EX-6.6.02** | Build REST API with CRUD operations.
 - ⬜ **EX-6.6.03** | Build user authentication API.
